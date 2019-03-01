@@ -1,0 +1,24 @@
+{
+  "name": "vimeo-player-api-loader",
+  "version": "1.0.0",
+  "description": "Vimeo JS Player API loader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No tests && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vojtad/vimeo-player-api-loader.git"
+  },
+  "keywords": [
+    "vimeo",
+    "js",
+    "player",
+		"embed",
+		"iframe",
+    "api"
+  ],
+  "author": "Vojta Drbohlav <vojta.d@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/vojtad/vimeo-player-api-loader"
+}
